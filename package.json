@@ -1,0 +1,26 @@
+{
+  "name": "judas",
+  "version": "1.0.0",
+  "description": "For when the web server you're using lies on a resource's file extension and content-type!",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/JosePedroDias/judas.git"
+  },
+  "keywords": [
+    "web scrapping",
+    "mime type",
+    "request"
+  ],
+  "author": {
+    "name": "José Pedro Dias",
+    "email": "jose.pedro.dias@gmail.com",
+    "url": "http://josepedrodias.com/"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "mime-sniffer": "0.0.3",
+    "stream-to-buffer": "^0.1.0"
+  }
+}
